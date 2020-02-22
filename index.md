@@ -3,12 +3,10 @@
 ## Senior Software Engineer
 ---
 Software Engineer with more than 5 years experience in web development.
-[Contact me](mailto:yarrem@gmail.com)
-
+---
 ### Experience
 #### KPMG Ukraine • Oct, 2017 — Present
-##### Software Engineer,
-##### Senior Software Engineer (acting as a Team Leader from December 2017 to December 2019)
+##### Software Engineer, Senior Software Engineer (acting as a Team Leader from December 2017 to December 2019)
 **Achievements:**
  * Was supervising and involved in development of core Client- and Server-side libraries inside the company
  * Successfully developed 3 major releases of Goal management system for top management employees
@@ -22,6 +20,7 @@ Software Engineer with more than 5 years experience in web development.
  * Solidity, Quorum, Ethereum, Hyperledger Fabric
  * Tableau
  * Azure, Git
+
 #### Pdffiller • May, 2017 — Sept, 2017
 ##### Software Engineer (Front-end)
 **Responsibilities:**
@@ -42,6 +41,7 @@ Software Engineer with more than 5 years experience in web development.
  * Knockout, RequireJs, Jasmine, Video.js, JQuery, Canvas
  * APS.NET MVC, ASP.NET WebApi, Azure Service Bus
  * TFS & TFVC
+
 #### WaveAccess • Oct, 2014 — Feb, 2016
 ##### Junior Software Engineer, Software Engineer
 **Achievements:**
@@ -52,6 +52,8 @@ Software Engineer with more than 5 years experience in web development.
  * Kendo.js, Knockout.js, JQuery, JQuery-UI
  * ASP.NET MVC, Orchard CMS
  * Git
+
+---
 ### Education
 #### Kyiv-Mohyla academy
  * Master of economy • 2011 — 2013
