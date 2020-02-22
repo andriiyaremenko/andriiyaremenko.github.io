@@ -63,6 +63,4 @@ Software Engineer with more than 5 years experience in web development.
 ### Education
 #### Kyiv-Mohyla academy
  * Master of economy • 2011 — 2013
-
-#### Kyiv-Mohyla academy
  * BSS of economy • 2007 — 2011
