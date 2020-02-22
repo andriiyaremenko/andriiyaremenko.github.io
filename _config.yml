@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Andrii Yaremenko"
+description: "Andrii Yaremenko Resume"
 
 # Build settings
 markdown: kramdown
@@ -63,3 +63,4 @@ resume_theme:                   default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
+

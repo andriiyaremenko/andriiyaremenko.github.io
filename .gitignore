@@ -4,3 +4,4 @@ _site
 _vendor
 **/*.swp
 tags
+.jekyll-cache
