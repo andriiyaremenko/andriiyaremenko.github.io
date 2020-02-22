@@ -13,7 +13,7 @@ Software Engineer with more than 5 years experience in web development.
  * Successfully developed 3 major releases of Goal management system for top management employees
  * Successfully developed 2 major releases of Goal management system for company employees
  * Designed flexible architecture for application aimed to generate accounting reports (changes to existing requirements was applied with no additional effort)
- * Is involved in design and development of heals-care application based on Smart Contracts using DLT (Distributed Ledger Technology)
+ * Is involved in design and development of health care application based on Smart Contracts using DLT (Distributed Ledger Technology)
 
 **Technologies in-use:**
  * C#, F#, ASP.NET Core
