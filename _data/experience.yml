@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Senior Software Engineer
+- company: KPMG Ukraine
+  position: Software Engineer,<br/> Senior Software Engineer (acting as a Team Leader from December 2017 to December 2019)
+  duration: Oct, 2017 &mdash; Present
+  summary: <h4>Achievements:</h4><ul class="resume-item-list"><li>Was supervising and involved in development of core Client- and Server-side libraries inside the company</li><li>Successfully developed 3 major releases of Goal management system for top management employees</li><li>Successfully developed 2 major releases of Goal management system for company employees</li><li>Designed flexible architecture for application aimed to generate accounting reports (changes to existing requirements was applied with no additional effort)</li><li>Is involved in design and development of heals-care application based on Smart Contracts using DLT (Distributed Ledger Technology)</li></ul><h4>Technologies in-use:</h4><ul class="resume-item-list"><li>C#, F#, ASP.NET Core</li><li>Transact-SQL, MongoDb</li><li>Typescript, Angular 5 and above</li><li>Solidity, Quorum, Ethereum, Hyperledger Fabric</li><li>Tableau</li><li>Azure, Git</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Software Engineer
+- company: Pdffiller
+  position: Software Engineer (Front-end)
+  duration:  May, 2017 &mdash; Sept, 2017
+  summary: <h4>Responsibilities:</h4><ul class="resume-item-list"><li>Writing client-side features</li></ul><h4>Technologies in-use:</h4><ul class="resume-item-list"><li>ES6, React, Redux</li><li>Babel, Webpack, Git</li></ul>
 
+# Junior Software Engineer
+- company: GlobalLogic
+  position: Junior Software Engineer
+  duration:   Mar, 2016  &mdash; May, 2017
+  summary: <h4>Achievements:</h4><ul class="resume-item-list"><li>Being appointed as leading developer for main iterations’ features (plugins for video.js)</li><li>Developed video cropping and snapshotting plugin, with extensible design, reused in other upcoming plugins</li><li>During audio redaction plugin development proposed, designed and implemented UI improvements which was accepted by client</li><li>Being limited in time and forced to use only pure canvas API, have developed flexible design for video blurring plugin and split its implementation among the other developers in such way, that no one had faced any blockers or significant merge conflicts</li><li>All features were delivered in time and with all expected functionality, despite numerous changes in product specification during iterations.</li><li>Researched how to extract meta-data from media files using external tools and developed wrapper for ffprobe to be used in our application</li></ul><h4>Technologies in-use:</h4><ul class="resume-item-list"><li>Knockout, RequireJs, Jasmine, Video.js, JQuery, Canvas</li><li>APS.NET MVC, ASP.NET WebApi, Azure Service Bus</li><li>TFS & TFVC</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Junior Software Engineer
+- company: WaveAccess
+  position: Junior Software Engineer, Software Engineer
+  duration:   Oct, 2014  &mdash; Feb, 2016
+  summary: <h4>Achievements:</h4><ul class="resume-item-list"><li>Migrated major part of project’s JavaScript codebase from jQuery 1.7 to jQuery 1.11 and patched unsupported plugins</li><li>Integrated the application with Facebook and Twitter APIs</li><li>Was involved in designing new business logic for old stored procedures (MySQL) used to manage operators in Openfire XMPP Server and upgraded them</li></ul><h4>Technologies in-use:</h4><ul class="resume-item-list"><li>Kendo.js, Knockout.js, JQuery, JQuery-UI</li><li>ASP.NET MVC, Orchard CMS</li><li>Git</li></ul>
