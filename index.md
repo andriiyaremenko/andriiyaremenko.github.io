@@ -3,6 +3,7 @@
 ## Senior Software Engineer
 ---
 Software Engineer with more than 5 years experience in web development.
+
 ---
 ### Experience
 #### KPMG Ukraine • Oct, 2017 — Present
@@ -30,6 +31,7 @@ Software Engineer with more than 5 years experience in web development.
 **Technologies in-use:**
  * ES6, React, Redux
  * Babel, Webpack, Git
+
 #### GlobalLogic • Mar, 2016 — May, 2017
 ##### Junior Software Engineer
 **Achievements:**
@@ -61,5 +63,6 @@ Software Engineer with more than 5 years experience in web development.
 ### Education
 #### Kyiv-Mohyla academy
  * Master of economy • 2011 — 2013
+
 #### Kyiv-Mohyla academy
  * BSS of economy • 2007 — 2011
