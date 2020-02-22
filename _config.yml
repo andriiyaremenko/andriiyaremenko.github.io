@@ -57,6 +57,7 @@ resume_social_link:
 resume_print_social_links:      true
 
 # Design settings
+remote_theme: andriiyaremenko/resume-template
 resume_theme:                   default
 
 # Note: when editing locally, remember to restart
