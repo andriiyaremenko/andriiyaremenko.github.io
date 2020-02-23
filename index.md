@@ -2,12 +2,14 @@
 ---
 ## Senior Software Engineer
 ---
-Software Engineer with more than 5 years experience in web development.
+> Software Engineer with more than 5 years experience in web development.
+> I am interested in expanding my expertise outside usual .Net technology stack.
+> Fan of Go and F#
 
 ---
 ### Experience
 #### KPMG Ukraine • Oct, 2017 — Present
-##### Software Engineer, Senior Software Engineer  (acting as a Team Leader • Dec, 2017 - Dec, 2019, as a Tech Lead • Feb, 2020 - Present)
+##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Dec, 2019, as a Tech Lead • Feb, 2020 - Present)
 
 **Achievements:**
  * Was supervising and involved in development of core Client- and Server-side libraries inside the company
@@ -25,7 +27,7 @@ Software Engineer with more than 5 years experience in web development.
  * Azure, Git
  * [^1]Elixir, Protobuf, gRPC, Docker
 
-[^1]: During this time took 3 month unpaid leave to work as Senior Elixir developer on another project outside the company.
+[^1]: During this time took 3 month (Nov, 2019 - Jan, 2020) unpaid leave to work as Senior Elixir developer on another project outside the company.
 
 #### Pdffiller • May, 2017 — Sept, 2017
 ##### Software Engineer (Front-end)
