@@ -7,8 +7,8 @@ Software Engineer with more than 5 years experience in web development.
 ---
 ### Experience
 #### KPMG Ukraine • Oct, 2017 — Present
-##### Software Engineer, Senior Software Engineer (acting as a Team Leader Dec, 2017 - Dec, 2019, as a Tech Lead from Feb, 2020)
-> During this time took 3 month unpaid leave to work as Senior Elixir developer on another project outside the company.
+##### Software Engineer, Senior Software Engineer  (acting as a Team Leader • Dec, 2017 - Dec, 2019, as a Tech Lead • Feb, 2020 - Present)
+
 **Achievements:**
  * Was supervising and involved in development of core Client- and Server-side libraries inside the company
  * Successfully developed 3 major releases of Goal management system for top management employees
@@ -23,6 +23,9 @@ Software Engineer with more than 5 years experience in web development.
  * Solidity, Quorum, Ethereum, Hyperledger Fabric
  * Tableau
  * Azure, Git
+ * [^1]Elixir, Protobuf, gRPC, Docker
+
+[^1]: During this time took 3 month unpaid leave to work as Senior Elixir developer on another project outside the company.
 
 #### Pdffiller • May, 2017 — Sept, 2017
 ##### Software Engineer (Front-end)
