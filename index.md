@@ -2,9 +2,9 @@
 ---
 ## Senior Software Engineer
 ---
-> Software Engineer with more than 5 years experience in web development.
-> I am interested in expanding my expertise outside usual .Net technology stack.
-> Fan of Go and F#
+*Software Engineer with more than 5 years experience in web development.*  
+*I am interested in expanding my expertise outside usual .Net technology stack.*  
+*Fan of Go and F#*
 
 ---
 ### Experience
