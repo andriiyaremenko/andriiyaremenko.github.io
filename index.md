@@ -7,13 +7,14 @@ Software Engineer with more than 5 years experience in web development.
 ---
 ### Experience
 #### KPMG Ukraine • Oct, 2017 — Present
-##### Software Engineer, Senior Software Engineer (acting as a Team Leader from December 2017 to December 2019)
+##### Software Engineer, Senior Software Engineer (acting as a Team Leader Dec, 2017 - Dec, 2019, as a Tech Lead from Feb, 2020)
+> During this time took 3 month unpaid leave to work as Senior Elixir developer on another project outside the company.
 **Achievements:**
  * Was supervising and involved in development of core Client- and Server-side libraries inside the company
  * Successfully developed 3 major releases of Goal management system for top management employees
  * Successfully developed 2 major releases of Goal management system for company employees
  * Designed flexible architecture for application aimed to generate accounting reports (changes to existing requirements was applied with no additional effort)
- * Is involved in design and development of health care application based on Smart Contracts using DLT (Distributed Ledger Technology)
+ * Was involved in design and development of health care application based on Smart Contracts using DLT (Distributed Ledger Technology)
 
 **Technologies in-use:**
  * C#, F#, ASP.NET Core
