@@ -4,12 +4,12 @@
 ---
 *Software Engineer with more than 5 years experience in web development.*  
 *I am interested in expanding my expertise outside usual .Net technology stack.*  
-*Fan of Go and F#*
+*Fan of Go and F#*.
 
 ---
 ### Experience
 #### KPMG Ukraine • Oct, 2017 — Present
-##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Dec, 2019, as a Tech Lead • Feb, 2020 - Present)
+##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Nov, 2019, as a Tech Lead • Feb, 2020 - Present)
 
 **Achievements:**
  * Was supervising and involved in development of core Client- and Server-side libraries inside the company

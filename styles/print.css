@@ -1,0 +1,16 @@
+.print-only, .print-only *
+{
+    display: none !important;
+}
+
+@media print
+{
+    .print-only, .print-only *
+    {
+        display: block !important;
+    }
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
