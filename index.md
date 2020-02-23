@@ -70,3 +70,5 @@
 #### Kyiv-Mohyla academy
  * Master of economy • 2011 — 2013
  * BSS of economy • 2007 — 2011
+
+___
