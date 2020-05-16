@@ -25,7 +25,7 @@
  * Solidity, Quorum, Ethereum, Hyperledger Fabric
  * Tableau
  * Azure, Git
- * [^1]Elixir, Protobuf, gRPC, Docker
+ * [^1]Elixir, Protobuf, gRPC, Docker, RabbitMQ
 
 [^1]: During this time took 3 month (Nov, 2019 - Jan, 2020) unpaid leave to work as Senior Elixir developer on another project outside the company.
 
