@@ -2,14 +2,43 @@
 ---
 ## Senior Software Engineer
 ---
-*Software Engineer with more than 5 years of experience in web development.*  
-*I am interested in expanding my expertise outside usual .Net technology stack.*  
+*Software Engineer with more than 6 years of experience in web development.*  
 *Fan of Go and F#*.
 
 ---
 ### Experience
-#### KPMG Ukraine • Oct, 2017 — Present
-##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Nov, 2019, as a Tech Lead • Feb, 2020 - Present)
+#### Daxx • Jun, 2020 — Present
+##### Senior Software Engineer
+
+**Achievements:**
+ * Contributed to [Service Bus Extension for Azure Functions](https://github.com/Azure/azure-functions-servicebus-extension)
+ * Successfully developed, extended and supported several services
+ * Successfully played a role of a communication bridge between two international dev teams
+
+**Technologies in-use:**
+ * Golang
+ * F#, ASP.NET Core, AzureFunctions
+ * NodeJs, Typescript
+ * Azure, Git
+ * Docker
+
+#### SEO optimization software (standalone project, part-time) • May, 2020 — Present
+##### Senior Software Engineer
+
+**Achievements:**
+ * Designed architecture of the project
+ * Delivered number of services
+
+**Technologies in-use:**
+ * Golang
+ * CockroachDB, MongoDB, Redis
+ * NATS
+ * React, Typescript
+ * Git
+ * Docker
+
+#### KPMG Ukraine • Oct, 2017 — Mar, 2020
+##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Nov, 2019, as a Tech Lead • Feb, 2020 - Mar 202)
 
 **Achievements:**
  * Was supervising and involved in development of core Client- and Server-side libraries inside the company
