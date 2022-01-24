@@ -11,7 +11,7 @@
 
 **Achievements:**
  * Helped transition team from Ruby to Golang
- * Developed DI library that is in core of team's Golang services
+ * Developed [DI library](https://github.com/andriiyaremenko/tinysl) that is in core of team's Golang services
  * Participated in developing shared common tools library
 
 **Technologies in-use:**
