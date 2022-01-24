@@ -2,12 +2,26 @@
 ---
 ## Senior Software Engineer
 ---
-*Software Engineer with more than 6 years of experience in web development.*  
-*Fan of Go and F#*.
+*Software Engineer with more than 7 years of experience in web development.*  
 
 ---
 ### Experience
-#### Daxx • Jun, 2020 — Present
+#### Solarisbank • Jun, 2021 — Present
+##### Senior Software Engineer
+
+**Achievements:**
+ * Helped transition team from Ruby to Golang
+ * Developed DI library that is in core of team's Golang services
+ * Participated in developing shared common tools library
+
+**Technologies in-use:**
+ * Golang
+ * Ruby
+ * AWS, Git
+ * Docker
+
+### Experience
+#### Daxx • Jun, 2020 — Jun, 2021
 ##### Senior Software Engineer
 
 **Achievements:**
