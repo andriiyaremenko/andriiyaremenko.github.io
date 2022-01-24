@@ -11,7 +11,7 @@
 
 **Achievements:**
  * Helped transition team from Ruby to Golang
- * Developed [DI library](https://github.com/andriiyaremenko/tinysl) that is in core of team's Golang services
+ * Developed [DI library](https://github.com/andriiyaremenko/tinysl) that is at the core of team’s Golang services
  * Participated in developing shared common tools library
 
 **Technologies in-use:**
@@ -54,7 +54,7 @@
 ##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Nov, 2019, as a Tech Lead • Feb, 2020 - Mar 202)
 
 **Achievements:**
- * Was supervising and involved in development of core Client- and Server-side libraries inside the company
+ * Was supervising and involved in the development of core Client- and Server-side libraries inside the company
  * Successfully developed 3 major releases of Goal management system for top management employees
  * Successfully developed 2 major releases of Goal management system for company employees
  * Designed flexible architecture for application aimed to generate accounting reports (changes to existing requirements was applied with no additional effort)
