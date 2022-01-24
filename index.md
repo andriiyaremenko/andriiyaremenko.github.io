@@ -20,7 +20,6 @@
  * AWS, Git
  * Docker
 
-### Experience
 #### Daxx • Jun, 2020 — Jun, 2021
 ##### Senior Software Engineer
 
