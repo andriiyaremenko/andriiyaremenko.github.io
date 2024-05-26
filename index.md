@@ -1,8 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Andrii Yaremenko
+---
+
 # Andrii Yaremenko
 ---
 ## Senior Software Engineer
 ---
-*Software Engineer with more than 7 years of experience in web development.*  
+*Software Engineer with more than 8 years of experience in web development.*  
 
 ---
 ### Experience
@@ -35,7 +43,7 @@
  * Azure, Git
  * Docker
 
-#### SEO optimization software (standalone project, part-time) • May, 2020 — Present
+#### SEO optimization software (standalone project, part-time) • May, 2020 — Dec, 2021
 ##### Senior Software Engineer
 
 **Achievements:**
@@ -51,7 +59,7 @@
  * Docker
 
 #### KPMG Ukraine • Oct, 2017 — Mar, 2020
-##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Nov, 2019, as a Tech Lead • Feb, 2020 - Mar 202)
+##### Software Engineer, Senior Software Engineer (acting as a Team Leader • Dec, 2017 - Nov, 2019, as a Tech Lead • Feb, 2020 - Mar 2020)
 
 **Achievements:**
  * Was supervising and involved in the development of core Client- and Server-side libraries inside the company

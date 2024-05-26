@@ -5,3 +5,4 @@ _vendor
 **/*.swp
 tags
 .jekyll-cache
+Gemfile.lock
